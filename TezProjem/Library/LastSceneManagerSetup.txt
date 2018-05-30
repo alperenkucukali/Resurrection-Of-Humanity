@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chapters/Sahnem.unity
+  isLoaded: 1
+  isActive: 1
